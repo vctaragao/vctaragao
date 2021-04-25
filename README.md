@@ -30,7 +30,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'Have a try of Express and Django/Flask';
+        return 'Diving deep into Elixir and PHP';
     }
 }
 ```
