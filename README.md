@@ -30,7 +30,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'Diving deep into Elixir and PHP';
+        return 'Diving deep into Elixir';
     }
 }
 ```
