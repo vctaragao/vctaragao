@@ -23,7 +23,6 @@ class About extends Me
             Laravel::class,
             Vuejs::class,
             Docker::class,
-            Kubernetes::class,
             GCloud::class,
         ];
     }
