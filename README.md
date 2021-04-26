@@ -21,6 +21,7 @@ class About extends Me
             Php::class,
             Javascript::class,
             Laravel::class,
+            PhpSlim::class,
             Vuejs::class,
             Docker::class,
             GCloud::class,
