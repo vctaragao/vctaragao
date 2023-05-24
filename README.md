@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/vctaragao?label=Follow&style=social)](https://github.com/vctaragao)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vctaragao.vctaragao" alt="visitor badge"/>  
 
-I am a developer passionate about the world of Backend with a focus on PHP for over 5 years. I have experience with agile profiles and teamwork within startups, working with API development and Microservices in Cloud.
+I am a developer passionate about the world of Backend for over 5 years. I have experience with agile profiles and teamwork within startups, working with API development and Microservices in Cloud.
 
 - 👨‍💻 I'm currently working at home. 😎
 - 🤔 I’m currently using `NodeJs` `GoLang` 😁
