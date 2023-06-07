@@ -6,7 +6,7 @@
 I am a developer passionate about the world of Backend for over 5 years. I have experience with agile profiles and teamwork within startups, working with API development and Microservices in Cloud.
 
 - 🏡 I'm currently working at home.
-- 👨‍💻 I’m currently using `NodeJs` `GoLang`
+- 👨‍💻 I’m currently using `VueJs`, `NodeJs`, `GoLang`
 - ✈️ Open to Remote Job Opportunities
 - 📫 Reach me by my [Linkedin](https://www.linkedin.com/in/victor-moraes-aragao/)
  
